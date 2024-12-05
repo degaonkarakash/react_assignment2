@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+***Install npm modules to create and run react project*** 
+
+
+***Steps to View Local Storage:***
+1.Open Developer Tools:
+
+Press F12 or Ctrl + Shift + I (Windows/Linux).
+Press Command + Option + I (Mac).
+
+2.Navigate to the Application Tab:
+
+In the Developer Tools panel, click the Application tab.
+If you're using Firefox, look for the Storage tab instead.
+
+3.Locate Local Storage:
+
+In the left-hand sidebar, look for Storage > Local Storage (or just Local Storage).
+Click on your website's URL under Local Storage.
+
+4.View Stored Data:
+
+You’ll see a table with two columns: Key and Value.
+Your contact list data will appear here, likely as a JSON string under the key you used (e.g., "contacts").
