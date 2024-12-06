@@ -69,8 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-***Install npm modules to create and run react project*** 
+INSTRUCTIONS:
 
+***Install npm modules to create and run react project*** 
+   Simple way to run project:
+1.Install and Setup react in visual studio code : https://code.visualstudio.com/docs/setup/windows
+2.How to Create react app : https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+3.Just Copy my Compontent folder in your react project and replace app.js with my file(app.js) and also copy style.css to src .
 
 ***Steps to View Local Storage:***
 1.Open Developer Tools:
